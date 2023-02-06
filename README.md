@@ -2,7 +2,7 @@
  
 <h2> :grey_question: Sobre a Imersão Dev </h2>
 
-Experiência que teve 6 dias de duração, o foco era alcançar pessoas iniciantes na área. Participei como aluna, assistindo as aulas e realizando os desafios e as tecnologias utilzadas foram HTML, CSS e JavaScript.
+Experiência que teve 6 dias de duração, o foco era alcançar pessoas iniciantes na área. Participei como aluna, assistindo as aulas e realizando os desafios.
 
 <h2> 🛠️ Projetos Desenvolvidos </h2>
 
